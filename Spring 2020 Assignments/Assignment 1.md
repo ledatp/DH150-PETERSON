@@ -15,5 +15,4 @@ Busuu is another popular language-learning platform that performs similarly to D
 **3**: Site performed above average for this heuristic and does not need to be reevaluated/altered for better usability.<br/>
 <br/>
 ## Nielson's 10 Heuristic Evaluation
-<br/>
-### **1: Visibility of System Status**
+### 1: Visibility of System Status
