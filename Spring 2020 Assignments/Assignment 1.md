@@ -1,7 +1,7 @@
 # Learning Language
   
 ## Digital Humanities 150 - Heuristics Evalution by Peterson Le
-### Introduction
+### Motivation
 As a first-generation American, I was privileged to learn a lot about my Vietnamese culture through my parents. However, like others, they wanted me to assimiliate to my environment, consequently making my Vietnamese less than fluent. This made it difficult to communicate outside the scope of basic and general necessities such as "Mẹ ơi, con đang đói" (Mom, I am hungry) or "Mẹ có khỏe không?" (Are you well, mom?). To me, the foundational elements to community and culture is language. Language help deepens your understanding of others for words are masters of expression. Therefore, I have chosen Duolingo and Busuu, two popular language-learning website, as the foci of this heuristic evaluation. <br/>
 
 #### Website 1: [Duolingo](https://www.duolingo.com/)
@@ -70,3 +70,4 @@ As a user of Busuu, I was given a one month free subscription and access to a pl
 ### 4: Consistency and Standards
 something something something something something something something something something something something something something
 ### 5: Error Prevention
+As previously stated, Busuu allow its user complete autonomy when it comes to their learning. This means that users do not have to take a placement test, have access to up to 125 different lessons, and can move freely from the beginner, intermediate, and advance settings. I believe too much freedom and control can be a negative in which users are overwhelmed by the options they have. Therefore, this is considerably poor representation of error prevention. 
