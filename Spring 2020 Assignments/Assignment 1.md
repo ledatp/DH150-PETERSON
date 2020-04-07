@@ -23,17 +23,22 @@ Duolingo does not give new users any information about things such as leadership
 ***Severity Rating: 2***
 When learning a lesson, there is a bar on top that progressively fills up with different color, indicating that you are making progress each time you get an answer right. This give users a *rough* estimate of how many more question they need to answer correctly to progress to the next level. I understand that it is difficult to give exact time because individuals will learn at their own pace; however, I believe a feature could be added to tell users exactly how many questions in total they need correct to move on from a given lesson.
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78642181-27a04180-7867-11ea-91aa-473a8292fa5b.png)
 ### 2: Match Between System and Real World
 ***Severity Rating: 1***
 Duolingo uses relevant pictures to depict what would be learned. For instance, if you are learning clothing, a picture of asock would represent the lesson. In addition, Duolingo's drop boxes are also represented in the same fashion (i.e., picture/designs paired with words that represent one another). I believe this a good example of this heuristic as it makes it more simple and efficient for users to navigate the site.<br/>
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78642557-c88efc80-7867-11ea-8757-bf0ea1226d71.png)
 ***Severity Rating: 2***
 Duolingo has a section for "Next Achievement" with a goal given to its user. When clicking on it, I realized that I had not completed the achievements prior to the one that I am currently on. I believe the word "Next" was misleading as it was used to mean which achievement I was closest to achieving rather than meaning an sequential order of achievement that I was to complete. By wording it in this manner, I did not attempt other achievements because I assumed there was an order to them similarly to how there is an order to the lessons.
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78642836-33403800-7868-11ea-84b8-c6cdc1f414f1.png)
+![image2](https://user-images.githubusercontent.com/63027004/78642844-35a29200-7868-11ea-9395-e6bb1a7dc6a2.png)
 ### 3: User Control and Freedom
 ***Severity Rating: 2***
 Upon creating an account, the user establish their goal for the course along with how many minutes per day they plan to study. These goals are able to be altered by the intensity of learning represented by EXP (e.g., daily goal of 50 EXP for intense learning vs. daily goal of 10 EXP for casual learning). This gives users the freedom to control the pace of their learning without pressure. A critique for this, however, would be in how to  change your goal and intensity. In the drop box menu after clicking on your profile icon, it is located in the "Coach" option; the wording for this is not a clear representation of what it offers, making it difficult to find.<br/> 
 <br/> 
+![image2](https://user-images.githubusercontent.com/63027004/78643127-9cc04680-7868-11ea-9e8b-4581ed703db3.png)
 ***Severity Rating: 2***
 After completing the placement test upon creating an account, users unlock certain lessons, while others remain locked. To me, it seems like the topics are locked by topic rather than by difficulty. This leads to poor freedom and control because users are unable to choose and learn topics that are relevant for their current situation without learning all of its latter. For instance, if I am looking to learn numbers in Vietnamese, I would have to complete 20 lessons that are not particularly relevant to learning Vietnamese numbers.
 <br/> 
@@ -47,6 +52,7 @@ Although it has its flaws, Duolingo locks certain lesson plans (which is indicat
 <br/> 
 ***Severity Rating: 1***
 Another use of error prevention from Duolingo occurs when users "X" out of a lesson. When this occurs, a pop up shows up asking whether the user is sure that they want to perform this task because doing so would result in the loss of progress. This is great because when I started using the site, I thought that progress would be saved even if I had just answered a few question. Thus, having this feature prevented me from making this mistake.
+![image2](https://user-images.githubusercontent.com/63027004/78643401-11938080-7869-11ea-9ac7-163717b848dc.png)
 ### 6: Recognition Rather than Recall
 ***Severity Rating: 2***
 For each lesson, there are tips that users can access before learning. The tips consists of relevant information that pertains to the lesson, but may not have been taught or thoroughly explained prior. Having this option is good for understanding the essentials; however, when starting the lesson you are unable to access it. Therefore, you must recall blocks of information that will pertain to all of the questions, making it difficult to fully grasp the concepts. Other sites have features that integrates the tips into the lesson plan that allowing you to see it, study it, and recognize it in future questions.
@@ -57,6 +63,7 @@ An interesting feature of Duolingo that allows for more flexibility and efficien
 <br/>
 ***Severity Rating: 2***
 One flaw about the flexibility above is that you are unable to find the keyboard shortcut through Duolingo. I have used the "Help" option and clicked around endlessly to find it; however, this information is not made available to the users. Therefore, I used outside sources (e.g., Reddit) to discover Duolingo's keyboard shortcut.
+![image2](https://user-images.githubusercontent.com/63027004/78643624-5fa88400-7869-11ea-896e-9d4ed5ad295b.png)
 ### 8: Aesthetic and Minimalist Design
 ***Severity Rating: 1***
 I believe aesthetic and minimalist design is something that Duolingo does exceptionally well in. Starting from the account creation to the lesson plans, its design is very simple. The simplicity is great for both new and old users, making the site easy to learn and comprehend as there is no ambiguity as to what the site has to offer. 
@@ -65,10 +72,12 @@ I believe aesthetic and minimalist design is something that Duolingo does except
 ***Severity Rating: 1***
 When partaking in a lesson, when users get the answer wrong a red pop up appears on screen showcasing the correct answer. After progressing with the lesson, the questions answered incorrectly would be asked again. I believe that this method is good for recognizing that an error has been made and recovering from the error by continually testing for it. It is fast and efficient (i.e, occurring directly after submitting a wrong answer) and continues to follow Duolingo's minimalist approach (e.g., it is simply a red box that states the correct answer with plain texts).
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78643815-b746ef80-7869-11ea-82af-fbef6ac11518.png)
 ### 10: Help and Documentation
 ***Severity Rating: 3***
 After submitting an answer during a lesson, whether it be correct or incorrect, users are able to access the discussion board for that specific question if they have any questions for it. On one hand, this element is beneficial because Duolingo cannot predict every question beforehand, so having this option allows even the most unique questions to be answered. On the other hand, if the question has not been asked previously, you will not receive an answer right away, which may prove to be unhelpful if you choose to move on with your lesson. As shown in the picture below, this question was asked two years ago and was answered a year after. Receiving help should be faster and more efficient than this.<br/>
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78643918-e2c9da00-7869-11ea-9151-595aee63a6ce.png)
 ***Severity Rating: 1***
 Another form of Help and Documentation is one used for the general website, independent from the lesson that the users are learning. This would be questions that pertains to lingots, leadership boards, health, and many other Duolingo features. As I have tested it out, it seems to answer a lot of questions that new users may be unaware of. Although a quick and simple tutorial would answer a lot of these questions, I believe the Help page is useful, concise, and thorough.
 <br/>
