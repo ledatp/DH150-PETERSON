@@ -10,25 +10,31 @@ Duolingo is the most popular language-learning wesbite to date. There are curren
 #### Website 2: [Busuu](https://www.busuu.com/) 
 Busuu is another popular language-learning platform that performs similarly to Duolingo, with less language options. Upon entering the site, you are asked to choose a language you would like to learn and answer a couple of essentials question. After that, the user is taken to their language profile with a plethora of categories that they may learn (e.g., Greeting, Pronouns). Overall, I believe this website also has done well in attempts to make it concise and simple to navigate; however, it also shows minor issues regarding **SOMETHING + Insert Pictures**<br/>
 
-### Heuristics Evaluation Ratings
-**1**: Site performed below average for this heuristic and could use major immediate reevaluation for better usability.<br/>
+### Heuristics Evaluation Severity Ratings
+**1**: Site performed average for this heuristic and does not need to be reevaluated/altered for better usability.<br/>
 **2**: Site performed slightly below average for this heuristic and has the potential to be altered for better usability.<br/>
-**3**: Site performed average for this heuristic and does not need to be reevaluated/altered for better usability.<br/>
+**3**: Site performed below average for this heuristic and could use major immediate reevaluation for better usability.<br/>
 <br/>
 ## Duolingo - Nielson's 10 Heuristic Evaluation 
 ### 1: Visibility of System Status
+**Severity Rating: 2**
 Duolingo does not give new users any information about things such as leadership boards, lingots, and health when they start learning. Therefore, as I went through the lessons and lost health, I was unaware of what that meant. Losing health means that I am unable to progress further with learning unless I purchase more health through lingots or wait hours to regain them. I believe Duolingo could have done more to help users integrate themselves into the site without having to find out through trial and error. Because their style of having a game-like design is unique, I believe having tutorials for these features should be added.<br/>
 <br/>
+**Severity Rating: 2**
 When learning a lesson, there is a bar on top that progressively fills up with different color, indicating that you are making progress each time you get an answer right. This give users a *rough* estimate of how many more question they need to answer correctly to progress to the next level. I understand that it is difficult to give exact time because individuals will learn at their own pace; however, I believe a feature could be added to tell users exactly how many questions in total they need correct to move on from a given lesson.
 <br/>
 ### 2: Match Between System and Real World
+**Severity Rating: 1**
 Duolingo uses relevant pictures to depict what would be learned. For instance, if you are learning clothing, a picture of asock would represent the lesson. In addition, Duolingo's drop boxes are also represented in the same fashion (i.e., picture/designs paired with words that represent one another). I believe this a good example of this heuristic as it makes it more simple and efficient for users to navigate the site.<br/>
 <br/>
+**Severity Rating: 2**
 Duolingo has a section for "Next Achievement" with a goal given to its user. When clicking on it, I realized that I had not completed the achievements prior to the one that I am currently on. I believe the word "Next" was misleading as it was used to mean which achievement I was closest to achieving rather than meaning an sequential order of achievement that I was to complete. By wording it in this manner, I did not attempt other achievements because I assumed there was an order to them similarly to how there is an order to the lessons.
 <br/>
 ### 3: User Control and Freedom
-Upon creating an account, the user establish their goal for the course along with how many minutes per day they plan to study. These goals are able to be altered by the intensity of learning represented by EXP (e.g., daily goal of 50 EXP for intense learning vs. daily goal of 10 EXP for casual learning). This gives users the freedom to control the pace of their learning without pressure. A critique for this, however, would be in how to  change your goal and intensity. In the drop box menu after clicking on your profile icon, it is located in the "Coach" option; the wording for this is not a clear representation of what it offers, making it difficult to find.<br/> 
+**Severity Rating: 2**
+- Upon creating an account, the user establish their goal for the course along with how many minutes per day they plan to study. These goals are able to be altered by the intensity of learning represented by EXP (e.g., daily goal of 50 EXP for intense learning vs. daily goal of 10 EXP for casual learning). This gives users the freedom to control the pace of their learning without pressure. A critique for this, however, would be in how to  change your goal and intensity. In the drop box menu after clicking on your profile icon, it is located in the "Coach" option; the wording for this is not a clear representation of what it offers, making it difficult to find.<br/> 
 <br/> 
+**Severity Rating: 2**
 After completing the placement test upon creating an account, users unlock certain lessons, while others remain locked. To me, it seems like the topics are locked by topic rather than by difficulty. This leads to poor freedom and control because users are unable to choose and learn topics that are relevant for their current situation without learning all of its latter. For instance, if I am looking to learn numbers in Vietnamese, I would have to complete 20 lessons that are not particularly relevant to learning Vietnamese numbers.
 <br/> 
 ### 4: Consistency and Standards
@@ -68,13 +74,24 @@ Busuu offer users complete control over their learning. Unlike Duolingo, where c
 <br/>
 As a user of Busuu, I was given a one month free subscription and access to a plethora of what they have to offer. However, after research, I witnessed a widespread of complaints about the loss of learning potential once the subscription is lost. Because I am unable to view what content I will be missing at this moment, I will not speak too much on this. I would just like to point this out because I found that Duolingo also had restraints that required one to purchase things (e.g., hearts and timed practice) that I felt should also be free. Therefore, to show fairness, I will take into account both website's methods of making money through locked content as an error in user's freedom.
 ### 4: Consistency and Standards
-For the most part Busuu meets the standards of consistency; however, there are some flaws. Busuu gives you the option to make and discover friends; however, there are two icons that represents the same thing which can be confusing. As shown, one is an icon of a chat bubble, while the other is an icon of two individuals. When clicking on the chat bubble "Social" page, it showcases the other icon surrounding a picture of Earth. I believe both buttons can be represented by the same icon as they pertain to very similar features within the site for more consistency.
+For the most part Busuu meets the standards of consistency; however, there are some flaws. Busuu gives you the option to make and discover friends; however, there are two icons that represents the same thing which can be confusing. As shown, one is an icon of a chat bubble, while the other is an icon of two individuals. When clicking on the chat bubble "Social" page, it showcases the other icon surrounding a picture of Earth. I believe both buttons can be represented by the same icon as they pertain to very similar features within the site for more consistency.<br/>
 <br/>
 Another aspect that I found inconsistent is that some lessons have a "Vocabulary" sub-lesson, while others have a "Discover" sub-lesson. No lessons have both vocabulary and discover. Although the description of both are different at face value, when clicking on each one they test similar items in a similar format. Therefore, I believe it would suffice to use "Discover" to represent both. 
 ### 5: Error Prevention
-As previously stated, Busuu allow its user complete autonomy when it comes to their learning. This means that users do not have to take a placement test, have access to up to 125 different lessons, and can move freely from the beginner, intermediate, and advance settings. I believe too much freedom and control can be a negative in which users are overwhelmed by the options they have. Therefore, this is considerably poor representation of error prevention. To me, it felt like there was less structure, so I had difficulty navigating the site to find what lesson best fit my interests.
+As previously stated, Busuu allow its user complete autonomy when it comes to their learning. This means that users do not have to take a placement test, have access to up to 125 different lessons, and can move freely from the beginner, intermediate, and advance settings. I believe too much freedom and control can be a negative in which users are overwhelmed by the options they have. Therefore, this is considerably poor representation of error prevention. To me, it felt like there was less structure, so I had difficulty navigating the site to find what lesson best fit my interests.<br/>
 <br/>
 One successful use of error prevention from Busuu occurs when users "X" out of a lesson. When this occurs, a pop up shows up asking whether the user is sure that they want to perform this task because doing so would result in the loss of progress. This is great because when I started using the site, I thought that progress would be saved even if I had just answered a few question. Thus, having this feature prevented me from making this mistake.
 <br/>
 ### 6 : Recognition Rather than Recall
-
+One issue that I addressed in Duolingo is that they required users to recall "Tips" that were not previously taught and was going to be used in the lesson. Busuu, on the other hand, integrates the tips into the lesson. This allow users to study for the material right before they are introduced to it. Hence, they can recognize when and how certain words and phrases are used instead of recalling it from before the lesson began.
+<br/>
+### 7: Flexibility and Efficiency of Use
+Busuu offers keyboard shortcuts that makes aspects of learning more efficient beyond the mousepad. For instance, they provide users with the ability to use the up arrow to replay audio, left arrow to go to the previous image, enter to save words, and the list goes on. I believe this is good use of flexibility as it allow users to choose different methods that would make their learning more efficient.
+<br/>
+### 8: Aesthetic and Minimalist Design
+Aside from the overwhelming amount of lessons on one page that was previously discussed, I tend to gravitate more towards Busuu's design over Duolingo's. I think without the gaming aspect, the site is very calm to look at, especially because it is also very simplistic. The simplicity in this site also is great for both new and old users as it takes away much ambiguity as to what the site has to offer.
+<br/>
+### 9: Help Users Recognize, Diagnose, and Recover from Errors
+When getting an answer incorrect during the lesson, a small text pops up at the bottom screen with the words "Incorrect" following a "X." The simplicity of this conveys the message very clearly. It then proceeds to tell the user the correct answer and repeats the question later in the lesson to ensure that they have receovered from their errors.
+<br/>
+### 10: Help and Documentation
