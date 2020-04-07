@@ -86,18 +86,23 @@ Another form of Help and Documentation is one used for the general website, inde
 ***Severity Rating: 1***
 Before starting a lesson on Busuu, the site informs its user how long (represented by minutes) would a course take. This allows its users to know how long they should expect to study for each category as well as see how many lessons should they complete to meet the goals that they have stated during the sign-up process. This is a great feature because each lesson plan are not evenly distributed in content, so knowing beforehand would allow users to properly manage their time. In addition to that, there is a progress bar on top of the lesson to further indicate time.
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78644649-0e998f80-786b-11ea-9765-f5a79a14254b.png)
 ### 2: Match Between System and Real Life
 ***Severity Rating: 1***
 In an attempt to make the learning feel more similar to real life, each lesson is represented by icons of real people, places, and objects that have to do with the topic. Moreover, within each lesson, most of the questions are associated with a picture that help users understand the context in which the words or phrases would be used in. Lastly, the pages throughout the entire website uses relevant icons that represent the page (e.g., Busuu's "Social" page is represented with chat bubbles). These features in combination with each other helps create a match between the system and real life.
-<br/>
+<br/>)
+![image2](https://user-images.githubusercontent.com/63027004/78644912-84056000-786b-11ea-961a-21cdbf627c3c.png)
+![image2](https://user-images.githubusercontent.com/63027004/78645033-b31bd180-786b-11ea-90b9-3392d90952cd.png)
 ### 3: User Control and Freedom
 ***Severity Rating: 2***
-Busuu offer users complete control over their learning. Unlike Duolingo, where certain lessons are locked, all of Busuu's lessons are completely unlock. Therefore, the users are able to contruct their learning on what interested them, along with what is relevant for them. As a speaker of my native tongue, I find this very useful because there are specific topics that I am not fluent in; so, this type of learning would be great for me. However, this also comes at a cost. With all lessons opened the website can be very overwhelming, especially due to the fact that there could be up to 125 different lessons each coupled with their own subsets of material on a single page. I believe there should be happy medium between what Duolingo and Busuu offers, allowing users a great amount of freedom without feeling like there is a lack of structure.<br/>
+Busuu offer users complete control over their learning. Unlike Duolingo, where certain lessons are locked, all of Busuu's lessons are completely unlock. Therefore, the users are able to contruct their learning on what interested them, along with what is relevant for them. As a speaker of my native tongue, I find this very useful because there are specific topics that I am not fluent in; so, this type of learning would be great for me. However, this also comes at a cost. With all lessons opened the website can be very overwhelming, especially due to the fact that there could be up to 125 different lessons each coupled with their own subsets of material on a single page. I believe there should be happy medium between what Duolingo and Busuu offers, allowing users a great amount of freedom without feeling like there is a lack of structure. The image below illustrates that I am able to skip to lesson 63 in Spanish, even though I do not have the slightest knowledge of Spanish. <br/>
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78645238-10b01e00-786c-11ea-86f4-1f2941e5053e.png)
 ### 4: Consistency and Standards
 ***Severity Rating: 2***
 For the most part Busuu meets the standards of consistency; however, there are some flaws. Busuu gives you the option to make and discover friends; however, there are two icons that represents the same thing which can be confusing. As shown, one is an icon of a chat bubble, while the other is an icon of two individuals. When clicking on the chat bubble "Social" page, it showcases the other icon surrounding a picture of Earth. I believe both buttons can be represented by the same icon as they pertain to very similar features within the site for more consistency.<br/>
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78645604-a186f980-786c-11ea-8965-08cb2a4996ef.png)
 ***Severity Rating: 2***
 Another aspect that I found inconsistent is that some lessons have a "Vocabulary" sub-lesson, while others have a "Discover" sub-lesson. No lessons have both vocabulary and discover. Although the description of both are different at face value, when clicking on each one they test similar items in a similar format. Therefore, I believe it would suffice to use "Discover" to represent both. 
 ### 5: Error Prevention
@@ -107,10 +112,12 @@ As previously stated, Busuu allow its user complete autonomy when it comes to th
 ***Severity Rating: 1***
 One successful use of error prevention from Busuu occurs when users "X" out of a lesson. When this occurs, a pop up shows up asking whether the user is sure that they want to perform this task because doing so would result in the loss of progress. This is great because when I started using the site, I thought that progress would be saved even if I had just answered a few question. Thus, having this feature prevented me from making this mistake.
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78645800-ec087600-786c-11ea-871c-eb15a94c73f6.png)
 ### 6 : Recognition Rather than Recall
 ***Severity Rating: 1***
-One issue that I addressed in Duolingo is that they required users to recall "Tips" that were not previously taught and was going to be used in the lesson. Busuu, on the other hand, integrates the tips into the lesson. This allow users to study for the material right before they are introduced to it. Hence, they can recognize when and how certain words and phrases are used instead of recalling it from before the lesson began.
+One issue that I addressed in Duolingo is that they required users to recall "Tips" that were not previously taught and was going to be used in the lesson. Busuu, on the other hand, integrates the tips into the lesson. This allow users to study for the material right before they are introduced to it. Hence, they can recognize when and how certain words and phrases are used instead of recalling it from before the lesson began. The image below shows a "tip" within one of the lessons.
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78645918-1e19d800-786d-11ea-9196-70a7c3973592.png)
 ### 7: Flexibility and Efficiency of Use
 ***Severity Rating: 1***
 Busuu offers keyboard shortcuts that makes aspects of learning more efficient beyond the mousepad. For instance, they provide users with the ability to use the up arrow to replay audio, left arrow to go to the previous image, enter to save words, and the list goes on. I believe this is good use of flexibility as it allow users to choose different methods that would make their learning more efficient.
@@ -123,6 +130,7 @@ Aside from the overwhelming amount of lessons on one page that was previously di
 ***Severity Rating: 1***
 When getting an answer incorrect during the lesson, a small text pops up at the bottom screen with the words "Incorrect" following a "X." The simplicity of this conveys the message very clearly. It then proceeds to tell the user the correct answer and repeats the question later in the lesson to ensure that they have receovered from their errors.
 <br/>
+![image2](https://user-images.githubusercontent.com/63027004/78644447-be223200-786a-11ea-9f02-2ffbe7e18e11.png)
 ### 10: Help and Documentation
 ***Severity Rating: 1***
 Busuu's help is very easy to use and accessible. There is a specific button to receive a tour of the entire site, allowing users to know everything that the site has to offer. In addition, there is a separate help page that is quick and simple to use. The help page also auto-finishes questions with a drop bar menu, this makes things more efficient and help users figure out how to frame their questions for quick access.
