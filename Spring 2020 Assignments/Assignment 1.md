@@ -115,3 +115,5 @@ Aside from the overwhelming amount of lessons on one page that was previously di
 When getting an answer incorrect during the lesson, a small text pops up at the bottom screen with the words "Incorrect" following a "X." The simplicity of this conveys the message very clearly. It then proceeds to tell the user the correct answer and repeats the question later in the lesson to ensure that they have receovered from their errors.
 <br/>
 ### 10: Help and Documentation
+***Severity Rating: 1***
+Busuu's help is very easy to use and accessible. There is a specific button to receive a tour of the entire site, allowing users to know everything that the site has to offer. In addition, there is a separate help page that is quick and simple to use. The help page also auto-finishes questions with a drop bar menu, this makes things more efficient and help users figure out how to frame their questions for quick access.
